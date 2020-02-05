@@ -14,26 +14,12 @@ The second-order random walks sampling methods were taken from the reference imp
 
 ### Table of Contents
 
-1. [Citing](#citing)  
-2. [Requirements](#requirements)
-3. [Datasets](#datasets)  
-4. [Logging](#logging)  
-5. [Options](#options) 
-6. [Examples](#examples)
+1. [Requirements](#requirements)
+2. [Datasets](#datasets)  
+3. [Logging](#logging)  
+4. [Options](#options) 
+5. [Examples](#examples)
 
-### Citing
-
-If you find MUSAE useful in your research, please consider citing the following paper:
-```bibtex
->@misc{rozemberczki2019multiscale,    
-       title = {Multi-scale Attributed Node Embedding},   
-       author = {Benedek Rozemberczki and Carl Allen and Rik Sarkar},   
-       year = {2019},   
-       eprint = {1909.13021},  
-       archivePrefix = {arXiv},  
-       primaryClass = {cs.LG}   
-       }
-```
 ### Requirements
 The codebase is implemented in Python 3.5.2. package versions used for development are just below.
 ```
