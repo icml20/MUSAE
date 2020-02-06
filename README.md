@@ -15,10 +15,9 @@ The second-order random walks sampling methods were taken from the reference imp
 ### Table of Contents
 
 1. [Requirements](#requirements)
-2. [Datasets](#datasets)  
-3. [Logging](#logging)  
-4. [Options](#options) 
-5. [Examples](#examples)
+2. [Logging](#logging)  
+3. [Options](#options) 
+4. [Examples](#examples)
 
 ### Requirements
 The codebase is implemented in Python 3.5.2. package versions used for development are just below.
