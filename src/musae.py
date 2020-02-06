@@ -12,9 +12,6 @@ from utils import load_graph, load_features, create_documents
 class MUSAE:
     """
     Multi-Scale Attributed Embedding class.
-    For details see the paper:
-    Multi-scale Attributed Node Embedding, Benedek Rozemberczki, Carl Allen, Rik Sarkar
-    https://arxiv.org/abs/1909.13021
     """
     def __init__(self, args):
         """
