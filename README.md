@@ -31,7 +31,6 @@ scipy             1.1.0
 argparse          1.1.0
 gensim            3.6.0
 ```
-### Datasets
 
 ### Logging
 
